@@ -1,0 +1,21 @@
+Alura\Leilao\Tests\Domain\Leilao
+ [x] Propor lance em leilao finalizado deve lancar excecao
+ [x] Propor lances em leilao deve funcionar with data set #0
+ [x] Propor lances em leilao deve funcionar with data set #1
+ [x] Mesmo usuario nao pode propor dois lances seguidos
+
+Alura\Leilao\Tests\Domain\Avaliador
+ [x] Avaliador deve achar maior valor with data set #0
+ [x] Avaliador deve achar maior valor with data set #1
+ [x] Avaliador deve achar maior valor with data set #2
+ [x] Avaliador deve achar menor valor with data set #0
+ [x] Avaliador deve achar menor valor with data set #1
+ [x] Avaliador deve achar menor valor with data set #2
+ [x] Avaliador deve ordenar os 3 lances with data set #0
+ [x] Avaliador deve ordenar os 3 lances with data set #1
+ [x] Avaliador deve ordenar os 3 lances with data set #2
+ [x] Avaliador deve retornar os maiores lances disponiveis
+
+Alura\Leilao\Tests\Service\Encerrador
+ [x] Leiloes com mais de uma semana devem ser encerrados
+
